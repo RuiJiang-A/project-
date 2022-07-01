@@ -1,3 +1,3 @@
 # project-
-###Team(alphabetical order): 
+### Team(alphabetical order): 
 Zimu Chen, Rui Jiang

@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
     // player move speed
     float moveSpeed = 2.5f;
     // player current face direction
-    bool isFacingRight = false;
+    bool isFacingRight = true;
     public Transform attackPoint;
     float attackRange = 0.5f;
     float attack = 50.0f;
@@ -36,17 +36,18 @@ public class PlayerController : MonoBehaviour
         if (Input.GetButtonDown("Attack")) StartCoroutine("Attack");
         // Parry
         else if (Input.GetButtonDown("Parry")) Parry();
+        else if (Input.GetButtonDown("Jump")) Jump();
         // Move
         else if (Input.GetButton("Horizontal") && !isAttacking && !isParrying)
         {
             // if character is facing left and wants to face right
-            if (!isFacingRight && movingDirection == 1)
+            if (!isFacingRight && movingDirection == -1)
             {
                 isFacingRight = true;
                 gameObject.transform.localScale = new Vector3(-1, 1, 1);
             }
             // if character is facing right and wants to face left
-            else if (isFacingRight && movingDirection == -1)
+            else if (isFacingRight && movingDirection == 1)
             {
                 isFacingRight = false;
                 gameObject.transform.localScale = new Vector3(1, 1, 1);
@@ -92,6 +93,13 @@ public class PlayerController : MonoBehaviour
         gameObject.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Kinematic;
         StartCoroutine("Disappear");
     }
+
+    void Jump()
+    {
+        animator.SetBool("Jump", true);
+        gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 4.5f), ForceMode2D.Impulse);
+    }
+
     IEnumerator Disappear()
     {
         yield return new WaitForSeconds(2);

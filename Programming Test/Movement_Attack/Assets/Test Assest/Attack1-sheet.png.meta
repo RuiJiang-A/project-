@@ -1,49 +1,49 @@
 fileFormatVersion: 2
-guid: b28aebde74ed0d24d9b20bfc7f9a7c66
+guid: b2b3f88b2be83d04783be995ec4b4d19
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4919397444990665353
-    second: Kumar-blade-sheet_0
+      213: -639739626859983036
+    second: Attack1-sheet_0
   - first:
-      213: 8983435596337489861
-    second: Kumar-blade-sheet_1
+      213: -2311667493693886810
+    second: Attack1-sheet_1
   - first:
-      213: -7221577356811283125
-    second: Kumar-blade-sheet_2
+      213: -8714167007441538645
+    second: Attack1-sheet_2
   - first:
-      213: -6793272605569255060
-    second: Kumar-blade-sheet_3
+      213: 4477677041774370968
+    second: Attack1-sheet_3
   - first:
-      213: -5307439392755227875
-    second: Kumar-blade-sheet_4
+      213: -6672969216755601304
+    second: Attack1-sheet_4
   - first:
-      213: 980245031165824408
-    second: Kumar-blade-sheet_5
+      213: -577113648669894894
+    second: Attack1-sheet_5
   - first:
-      213: -4656309966704616687
-    second: Kumar-blade-sheet_6
+      213: -8127737112963836295
+    second: Attack1-sheet_6
   - first:
-      213: -5415299610703024533
-    second: Kumar-blade-sheet_7
+      213: -19519394211067754
+    second: Attack1-sheet_7
   - first:
-      213: -5924990885811296466
-    second: Kumar-blade-sheet_8
+      213: -6307092169190500746
+    second: Attack1-sheet_8
   - first:
-      213: -5967319491508940519
-    second: Kumar-blade-sheet_9
+      213: 2391553954785705490
+    second: Attack1-sheet_9
   - first:
-      213: -7678009865576061895
-    second: Kumar-blade-sheet_10
+      213: 8629543903408606051
+    second: Attack1-sheet_10
   - first:
-      213: 5887100854255012925
-    second: Kumar-blade-sheet_11
+      213: -1126415629385853175
+    second: Attack1-sheet_11
   - first:
-      213: -3165431437228200604
-    second: Kumar-blade-sheet_12
+      213: -9020417360428103368
+    second: Attack1-sheet_12
   - first:
-      213: 691167010290343307
-    second: Kumar-blade-sheet_13
+      213: 5428856657886587438
+    second: Attack1-sheet_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -74,7 +74,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -88,7 +88,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,13 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kumar-blade-sheet_0
+      name: Attack1-sheet_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 182
-        width: 33
-        height: 48
+        x: 0
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 98202a189e5354440800000000000000
-      internalID: 4919397444990665353
+      spriteID: 44f0548e2303f17f0800000000000000
+      internalID: -639739626859983036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_1
+      name: Attack1-sheet_1
       rect:
         serializedVersion: 2
-        x: 105
-        y: 182
-        width: 45
-        height: 43
+        x: 80
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c7ab4e14139bac70800000000000000
-      internalID: 8983435596337489861
+      spriteID: 6aeee8789ae4befd0800000000000000
+      internalID: -2311667493693886810
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_2
+      name: Attack1-sheet_2
       rect:
         serializedVersion: 2
-        x: 185
-        y: 182
-        width: 39
-        height: 43
+        x: 160
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +201,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b455241d7adc7cb90800000000000000
-      internalID: -7221577356811283125
+      spriteID: ba1b400c64f011780800000000000000
+      internalID: -8714167007441538645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_3
+      name: Attack1-sheet_3
       rect:
         serializedVersion: 2
-        x: 251
-        y: 182
-        width: 59
-        height: 60
+        x: 240
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,20 +222,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c69f6aabe8279b1a0800000000000000
-      internalID: -6793272605569255060
+      spriteID: 89022e5bb87e32e30800000000000000
+      internalID: 4477677041774370968
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_4
+      name: Attack1-sheet_4
       rect:
         serializedVersion: 2
-        x: 329
-        y: 182
-        width: 35
-        height: 60
+        x: 320
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +243,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d13e8e70eff2856b0800000000000000
-      internalID: -5307439392755227875
+      spriteID: 8607a2e2ad9d463a0800000000000000
+      internalID: -6672969216755601304
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_5
+      name: Attack1-sheet_5
       rect:
         serializedVersion: 2
-        x: 11
-        y: 102
-        width: 58
-        height: 43
+        x: 400
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,20 +264,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89d0b7b89a78a9d00800000000000000
-      internalID: 980245031165824408
+      spriteID: 2175008b13eadf7f0800000000000000
+      internalID: -577113648669894894
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_6
+      name: Attack1-sheet_6
       rect:
         serializedVersion: 2
-        x: 105
-        y: 102
-        width: 43
-        height: 43
+        x: 480
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,20 +285,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11bd57661c6716fb0800000000000000
-      internalID: -4656309966704616687
+      spriteID: 976180a882a743f80800000000000000
+      internalID: -8127737112963836295
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_7
+      name: Attack1-sheet_7
       rect:
         serializedVersion: 2
-        x: 185
-        y: 102
-        width: 45
-        height: 43
+        x: 560
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,20 +306,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6e2cbf02bdf8d4b0800000000000000
-      internalID: -5415299610703024533
+      spriteID: 69881d1e637aabff0800000000000000
+      internalID: -19519394211067754
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_8
+      name: Attack1-sheet_8
       rect:
         serializedVersion: 2
-        x: 249
-        y: 102
-        width: 35
-        height: 62
+        x: 640
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,20 +327,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e276ac96e2436cda0800000000000000
-      internalID: -5924990885811296466
+      spriteID: 67690c9a615b878a0800000000000000
+      internalID: -6307092169190500746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_9
+      name: Attack1-sheet_9
       rect:
         serializedVersion: 2
-        x: 329
-        y: 102
-        width: 35
-        height: 60
+        x: 720
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -348,20 +348,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9115857e982df2da0800000000000000
-      internalID: -5967319491508940519
+      spriteID: 21ebe20a6a1803120800000000000000
+      internalID: 2391553954785705490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_10
+      name: Attack1-sheet_10
       rect:
         serializedVersion: 2
-        x: 25
-        y: 22
-        width: 45
-        height: 42
+        x: 800
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -369,20 +369,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 934e46405ba327590800000000000000
-      internalID: -7678009865576061895
+      spriteID: 36bce48757c42c770800000000000000
+      internalID: 8629543903408606051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_11
+      name: Attack1-sheet_11
       rect:
         serializedVersion: 2
-        x: 105
-        y: 22
-        width: 39
-        height: 43
+        x: 880
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -390,20 +390,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d3cc4c6290f23b150800000000000000
-      internalID: 5887100854255012925
+      spriteID: 907120df3fa2e50f0800000000000000
+      internalID: -1126415629385853175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_12
+      name: Attack1-sheet_12
       rect:
         serializedVersion: 2
-        x: 182
-        y: 22
-        width: 49
-        height: 43
+        x: 960
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -411,20 +411,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46da82701e02214d0800000000000000
-      internalID: -3165431437228200604
+      spriteID: 8398ae1f33a01d280800000000000000
+      internalID: -9020417360428103368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-blade-sheet_13
+      name: Attack1-sheet_13
       rect:
         serializedVersion: 2
-        x: 249
-        y: 22
-        width: 35
-        height: 60
+        x: 1040
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -432,8 +432,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8d13d0ebb4879900800000000000000
-      internalID: 691167010290343307
+      spriteID: e2a28d5fd5c275b40800000000000000
+      internalID: 5428856657886587438
       vertices: []
       indices: 
       edges: []

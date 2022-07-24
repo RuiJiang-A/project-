@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 575e5a332c4510e4dbe31e77d4bd5109
+guid: 925fd5b8889535943aeb7b72a8c0ffbb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7302285147829833663
-    second: Kumar-run-sheet_0
+      213: -6343009740717750207
+    second: run-sheet_0
   - first:
-      213: -8795716859850080217
-    second: Kumar-run-sheet_1
+      213: 6469036093850802680
+    second: run-sheet_1
   - first:
-      213: 1669854073586700519
-    second: Kumar-run-sheet_2
+      213: -6408103705518569511
+    second: run-sheet_2
   - first:
-      213: -7641979544291495660
-    second: Kumar-run-sheet_3
+      213: 5221487157075216771
+    second: run-sheet_3
   - first:
-      213: 8093162906257173774
-    second: Kumar-run-sheet_4
+      213: -4804513569751819596
+    second: run-sheet_4
   - first:
-      213: -7926538754401372647
-    second: Kumar-run-sheet_5
+      213: -9042002710561845190
+    second: run-sheet_5
   - first:
-      213: 9092499614121427700
-    second: Kumar-run-sheet_6
+      213: -8976194683344266499
+    second: run-sheet_6
   - first:
-      213: 6272161560775152274
-    second: Kumar-run-sheet_7
+      213: 1093984008986753411
+    second: run-sheet_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -56,7 +56,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -70,7 +70,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -127,13 +127,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Kumar-run-sheet_0
+      name: run-sheet_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 186
-        width: 28
-        height: 47
+        x: 0
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,20 +141,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 140fdf2e85219aa90800000000000000
-      internalID: -7302285147829833663
+      spriteID: 1480dad5f3a19f7a0800000000000000
+      internalID: -6343009740717750207
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_1
+      name: run-sheet_1
       rect:
         serializedVersion: 2
-        x: 91
-        y: 182
-        width: 28
-        height: 50
+        x: 80
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,20 +162,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 720c8bf1e165fe580800000000000000
-      internalID: -8795716859850080217
+      spriteID: 8f9582d8d02a6c950800000000000000
+      internalID: 6469036093850802680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_2
+      name: run-sheet_2
       rect:
         serializedVersion: 2
-        x: 172
-        y: 182
-        width: 27
-        height: 48
+        x: 160
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e0dfd2ce638c2710800000000000000
-      internalID: 1669854073586700519
+      spriteID: 9d783b4a1a7d117a0800000000000000
+      internalID: -6408103705518569511
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_3
+      name: run-sheet_3
       rect:
         serializedVersion: 2
-        x: 12
-        y: 102
-        width: 27
-        height: 49
+        x: 240
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,20 +204,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41134b9e71c32f590800000000000000
-      internalID: -7641979544291495660
+      spriteID: 3898bbc97e2767840800000000000000
+      internalID: 5221487157075216771
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_4
+      name: run-sheet_4
       rect:
         serializedVersion: 2
-        x: 90
-        y: 106
-        width: 29
-        height: 47
+        x: 320
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,20 +225,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0da3d8a8c0b05070800000000000000
-      internalID: 8093162906257173774
+      spriteID: 4ba166c1d50f25db0800000000000000
+      internalID: -4804513569751819596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_5
+      name: run-sheet_5
       rect:
         serializedVersion: 2
-        x: 171
-        y: 102
-        width: 28
-        height: 50
+        x: 400
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,20 +246,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 916f98ddff64ff190800000000000000
-      internalID: -7926538754401372647
+      spriteID: a3097daf07a548280800000000000000
+      internalID: -9042002710561845190
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_6
+      name: run-sheet_6
       rect:
         serializedVersion: 2
-        x: 12
-        y: 22
-        width: 27
-        height: 48
+        x: 480
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -267,20 +267,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f28514993c0f2e70800000000000000
-      internalID: 9092499614121427700
+      spriteID: dfad3805e762e6380800000000000000
+      internalID: -8976194683344266499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Kumar-run-sheet_7
+      name: run-sheet_7
       rect:
         serializedVersion: 2
-        x: 92
-        y: 22
-        width: 27
-        height: 49
+        x: 560
+        y: 0
+        width: 80
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,8 +288,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 292dcdb45b13b0750800000000000000
-      internalID: 6272161560775152274
+      spriteID: 389fc95f8ac9e2f00800000000000000
+      internalID: 1093984008986753411
       vertices: []
       indices: 
       edges: []

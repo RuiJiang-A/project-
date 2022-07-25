@@ -1,49 +1,43 @@
 fileFormatVersion: 2
-guid: a2ff56bcc36ae0744be61c91f7a295be
+guid: 619103aa775d29343ac650c5ba5bdd61
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -639739626859983036
-    second: Attack1-sheet_0
+      213: -1530765196573766217
+    second: E1-Death-sheet_0
   - first:
-      213: -2311667493693886810
-    second: Attack1-sheet_1
+      213: -5470135196226075598
+    second: E1-Death-sheet_1
   - first:
-      213: -8714167007441538645
-    second: Attack1-sheet_2
+      213: 5764583659755854736
+    second: E1-Death-sheet_2
   - first:
-      213: 4477677041774370968
-    second: Attack1-sheet_3
+      213: 4141340256587594238
+    second: E1-Death-sheet_3
   - first:
-      213: -6672969216755601304
-    second: Attack1-sheet_4
+      213: -3003169019970715763
+    second: E1-Death-sheet_4
   - first:
-      213: -577113648669894894
-    second: Attack1-sheet_5
+      213: -4224536528934811680
+    second: E1-Death-sheet_5
   - first:
-      213: -8127737112963836295
-    second: Attack1-sheet_6
+      213: -6040884571599672960
+    second: E1-Death-sheet_6
   - first:
-      213: -19519394211067754
-    second: Attack1-sheet_7
+      213: -691097303947749831
+    second: E1-Death-sheet_7
   - first:
-      213: -6307092169190500746
-    second: Attack1-sheet_8
+      213: -7292841950029302808
+    second: E1-Death-sheet_8
   - first:
-      213: 2391553954785705490
-    second: Attack1-sheet_9
+      213: 5283216233719592416
+    second: E1-Death-sheet_9
   - first:
-      213: 8629543903408606051
-    second: Attack1-sheet_10
+      213: -5160770586146138528
+    second: E1-Death-sheet_10
   - first:
-      213: -1126415629385853175
-    second: Attack1-sheet_11
-  - first:
-      213: -9020417360428103368
-    second: Attack1-sheet_12
-  - first:
-      213: 5428856657886587438
-    second: Attack1-sheet_13
+      213: -2379032315289847621
+    second: E1-Death-sheet_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -88,7 +82,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -145,13 +139,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack1-sheet_0
+      name: E1-Death-sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44f0548e2303f17f0800000000000000
-      internalID: -639739626859983036
+      spriteID: 7bd80bff921a1cae0800000000000000
+      internalID: -1530765196573766217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_1
+      name: E1-Death-sheet_1
       rect:
         serializedVersion: 2
-        x: 88
+        x: 64
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6aeee8789ae4befd0800000000000000
-      internalID: -2311667493693886810
+      spriteID: 2344593650d2614b0800000000000000
+      internalID: -5470135196226075598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_2
+      name: E1-Death-sheet_2
       rect:
         serializedVersion: 2
-        x: 176
+        x: 128
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -201,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba1b400c64f011780800000000000000
-      internalID: -8714167007441538645
+      spriteID: 09bd4c5eb4aefff40800000000000000
+      internalID: 5764583659755854736
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_3
+      name: E1-Death-sheet_3
       rect:
         serializedVersion: 2
-        x: 264
+        x: 192
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,20 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89022e5bb87e32e30800000000000000
-      internalID: 4477677041774370968
+      spriteID: ef9bde7850ff87930800000000000000
+      internalID: 4141340256587594238
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_4
+      name: E1-Death-sheet_4
       rect:
         serializedVersion: 2
-        x: 352
+        x: 256
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8607a2e2ad9d463a0800000000000000
-      internalID: -6672969216755601304
+      spriteID: d8fff2410b99256d0800000000000000
+      internalID: -3003169019970715763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_5
+      name: E1-Death-sheet_5
       rect:
         serializedVersion: 2
-        x: 440
+        x: 320
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2175008b13eadf7f0800000000000000
-      internalID: -577113648669894894
+      spriteID: 0e7cd24d86e6f55c0800000000000000
+      internalID: -4224536528934811680
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_6
+      name: E1-Death-sheet_6
       rect:
         serializedVersion: 2
-        x: 528
+        x: 384
         y: 0
-        width: 88
-        height: 70
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,8 +279,113 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 976180a882a743f80800000000000000
-      internalID: -8127737112963836295
+      spriteID: 089e9a4fc777a2ca0800000000000000
+      internalID: -6040884571599672960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1-Death-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936d6f4e9aab866f0800000000000000
+      internalID: -691097303947749831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1-Death-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3bf65b2ee9aca90800000000000000
+      internalID: -7292841950029302808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1-Death-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5fe624c21c15940800000000000000
+      internalID: 5283216233719592416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1-Death-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066997dae724168b0800000000000000
+      internalID: -5160770586146138528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E1-Death-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb839f1c6bafbfed0800000000000000
+      internalID: -2379032315289847621
       vertices: []
       indices: 
       edges: []

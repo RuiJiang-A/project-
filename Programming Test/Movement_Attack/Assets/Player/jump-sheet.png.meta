@@ -1,49 +1,40 @@
 fileFormatVersion: 2
-guid: a2ff56bcc36ae0744be61c91f7a295be
+guid: 0f261469ed0d25045932646b96a92e00
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -639739626859983036
-    second: Attack1-sheet_0
+      213: -6619761729131806080
+    second: jump-sheet_0
   - first:
-      213: -2311667493693886810
-    second: Attack1-sheet_1
+      213: -2614457667967621724
+    second: jump-sheet_1
   - first:
-      213: -8714167007441538645
-    second: Attack1-sheet_2
+      213: -749852811402780547
+    second: jump-sheet_2
   - first:
-      213: 4477677041774370968
-    second: Attack1-sheet_3
+      213: 2212934162506972719
+    second: jump-sheet_3
   - first:
-      213: -6672969216755601304
-    second: Attack1-sheet_4
+      213: -5795080858043624865
+    second: jump-sheet_4
   - first:
-      213: -577113648669894894
-    second: Attack1-sheet_5
+      213: 3106370687212464139
+    second: jump-sheet_5
   - first:
-      213: -8127737112963836295
-    second: Attack1-sheet_6
+      213: -5386759286002335784
+    second: jump-sheet_6
   - first:
-      213: -19519394211067754
-    second: Attack1-sheet_7
+      213: 6590098915406733339
+    second: jump-sheet_7
   - first:
-      213: -6307092169190500746
-    second: Attack1-sheet_8
+      213: -879744701034284006
+    second: jump-sheet_8
   - first:
-      213: 2391553954785705490
-    second: Attack1-sheet_9
+      213: -8150241366316190432
+    second: jump-sheet_9
   - first:
-      213: 8629543903408606051
-    second: Attack1-sheet_10
-  - first:
-      213: -1126415629385853175
-    second: Attack1-sheet_11
-  - first:
-      213: -9020417360428103368
-    second: Attack1-sheet_12
-  - first:
-      213: 5428856657886587438
-    second: Attack1-sheet_13
+      213: 7522010939839332598
+    second: jump-sheet_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -145,12 +136,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attack1-sheet_0
+      name: jump-sheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -159,19 +150,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44f0548e2303f17f0800000000000000
-      internalID: -639739626859983036
+      spriteID: 0828f55c7c1e124a0800000000000000
+      internalID: -6619761729131806080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_1
+      name: jump-sheet_1
       rect:
         serializedVersion: 2
-        x: 88
+        x: 80
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -180,19 +171,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6aeee8789ae4befd0800000000000000
-      internalID: -2311667493693886810
+      spriteID: 4a56e7c5a9497bbd0800000000000000
+      internalID: -2614457667967621724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_2
+      name: jump-sheet_2
       rect:
         serializedVersion: 2
-        x: 176
+        x: 160
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -201,19 +192,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba1b400c64f011780800000000000000
-      internalID: -8714167007441538645
+      spriteID: d70628647dcf795f0800000000000000
+      internalID: -749852811402780547
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_3
+      name: jump-sheet_3
       rect:
         serializedVersion: 2
-        x: 264
+        x: 240
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -222,19 +213,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89022e5bb87e32e30800000000000000
-      internalID: 4477677041774370968
+      spriteID: f2efd8b65ebe5be10800000000000000
+      internalID: 2212934162506972719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_4
+      name: jump-sheet_4
       rect:
         serializedVersion: 2
-        x: 352
+        x: 320
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -243,19 +234,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8607a2e2ad9d463a0800000000000000
-      internalID: -6672969216755601304
+      spriteID: f52d4abc9acb39fa0800000000000000
+      internalID: -5795080858043624865
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_5
+      name: jump-sheet_5
       rect:
         serializedVersion: 2
-        x: 440
+        x: 400
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -264,19 +255,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2175008b13eadf7f0800000000000000
-      internalID: -577113648669894894
+      spriteID: b082cf78eab0c1b20800000000000000
+      internalID: 3106370687212464139
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Attack1-sheet_6
+      name: jump-sheet_6
       rect:
         serializedVersion: 2
-        x: 528
+        x: 480
         y: 0
-        width: 88
+        width: 80
         height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -285,8 +276,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 976180a882a743f80800000000000000
-      internalID: -8127737112963836295
+      spriteID: 8df3b4b38f26e35b0800000000000000
+      internalID: -5386759286002335784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1061873c0cb47b50800000000000000
+      internalID: 6590098915406733339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb1d10bd48ac3f0800000000000000
+      internalID: -879744701034284006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025770fb8a684ee80800000000000000
+      internalID: -8150241366316190432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0c9b1b81d836860800000000000000
+      internalID: 7522010939839332598
       vertices: []
       indices: 
       edges: []
